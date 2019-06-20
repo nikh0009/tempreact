@@ -1,8 +1,15 @@
+Hi all, this is my Todo project created in process of learning React.js!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Author
 
-In the project directory, you can run:
+Nikhil Tripathy
+
+
+### You can find me here as well
+
+[Twitter] (https://twitter.com/tripathy_nikhil)
+[Instagram] (https://www.instagram.com/itsnikhiltripathy/)
 
 ### `npm start`
 
