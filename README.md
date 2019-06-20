@@ -8,8 +8,8 @@ Nikhil Tripathy
 
 ### You can find me here as well
 
-[Twitter] (https://twitter.com/tripathy_nikhil)
-[Instagram] (https://www.instagram.com/itsnikhiltripathy/)
+[Twitter](https://twitter.com/tripathy_nikhil)
+[Instagram](https://www.instagram.com/itsnikhiltripathy/)
 
 ### `npm start`
 
