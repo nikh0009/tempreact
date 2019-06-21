@@ -1,4 +1,4 @@
-Hi all, this is my Todo project created in process of learning React.js!
+Hi all, this is my Todo project created in process of learning React.js!<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Author
@@ -8,7 +8,7 @@ Nikhil Tripathy
 
 ### You can find me here as well
 
-[Twitter](https://twitter.com/tripathy_nikhil)
+[Twitter](https://twitter.com/tripathy_nikhil) <br>
 [Instagram](https://www.instagram.com/itsnikhiltripathy/)
 
 ### `npm start`
